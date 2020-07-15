@@ -1,8 +1,7 @@
-### Hi, I am [abin](https://cnblogs.com/sctb) 👋
+### Hi, I am <a href="https://cnblogs.com/sctb" target="_blank">abin</a> 👋
 
 - 🔭 I’m currently working on a private project
 - 🌱 I’m currently learning RDMA and Pytorch
-- 📫 How to reach me: ...
 
 <!--
 **sctb512/sctb512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
