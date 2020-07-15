@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a private project
 - 🌱 I’m currently learning RDMA and Pytorch
-- 🤔 I’m looking for help that </a href="https://cnblogs.com/sctb" target="_blank">how to build a local network with two single-port mellanox infiniband network card and two dual-port mellanox infiniband network cards?</a>
+- 🤔 I’m looking for help that <a href="https://cnblogs.com/sctb" target="_blank">how to build a local network with two single-port mellanox infiniband network card and two dual-port mellanox infiniband network cards?</a>
 - 😄 Pronouns: great!
 
 <!--
