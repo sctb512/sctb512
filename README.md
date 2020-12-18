@@ -1,8 +1,7 @@
 ### Hi, I am <a href="https://cnblogs.com/sctb" target="_blank">abin</a> 👋
 
 - 🔭 I’m currently working on a private project
-- 🌱 I’m currently learning RDMA and Pytorch
-- 🤔 I’m implementing an expirement about hardware security
+- 🌱 I’m implementing an expirement about hardware security
 - 😄 Pronouns: great!
 
 <!--
