@@ -1,8 +1,8 @@
 ### Hi, I am <a href="https://cnblogs.com/sctb" target="_blank">abin</a> 👋
 
-- 🔭 I’m currently working on a private project
-- 🌱 I’m implementing an expirement about hardware security
-- 😄 Pronouns: great!
+### 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sctb512&show_icons=true" alt="sctb512" /></p>
 
 <!--
 **sctb512/sctb512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
